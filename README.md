@@ -1,4 +1,13 @@
 # flask_template
+
+## venv
+    python3 -m venv .venv
+
+## install
+    pip install flask 
+
+    pip install pymongo
+
 ## Html
     <!DOCTYPE html>
     <html lang="ko">
